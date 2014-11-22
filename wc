@@ -1,0 +1,4 @@
+WC shows the word, line, character, and byte count within a file. We can alter the output of wc using different options:
+-c will show the byte count
+-l will show the line count
+-w will show the word count
